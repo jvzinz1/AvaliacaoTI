@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.logo{
+  width: 120px;
+}
+header{
+  width: 100%;
+  background-color: gray;
+}
+
+  .carnaval{
+    display: flex;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+
+   .titulo{
+    margin-top: 50px;
+    margin-left: 20px;
+    display: flex;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   }
+
+  .grupo2{
+    display: flex;
+    padding: 10px 80px;
+  }
+  .Banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .Banner h1{
+    text-align: center;
+  }
+  .info{
+    font-size: 15px;
+    margin-top: 150px;
+    display: flex;
+    margin: 150px;
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+  .img1{
+    display: flex;
+    width: 300px ;
+    align-items: center;
+    height: 300px;
+    margin-left: 200px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+  .img2{
+    display: flex;
+    width: 300px ;
+    align-items: center;
+    height: 300px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .img3{
+    display: flex;
+    width: 300px ;
+    align-items: center;
+    height: 300px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .img4{
+    display: flex;
+    width: 300px ;
+    align-items: center;
+    height: 300px;
+    margin-left: 200px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .img5{
+    display: flex;
+    width: 300px ;
+    align-items: center;
+    height: 300px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .img6{
+    display: flex;
+    width: 300px;
+    align-items: center;
+    height: 300px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+.linha1{
+  display: flex;
+  align-items: center;
+  margin-top: 100px;
+  }
+  .linha2{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    }
+  .footer{
+    background-color: gray;
+  }
+  
